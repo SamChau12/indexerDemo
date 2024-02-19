@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\IndexerDemo\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Users\Hp\source\repos\IndexerDemo\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Users\Hp\source\repos\IndexerDemo\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\Hp\source\repos\IndexerDemo\StaticDemo\obj\Debug\StaticDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\IndexerDemo\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\IndexerDemo\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Users\Hp\source\repos\IndexerDemo\StaticDemo\obj\Debug\StaticDemo.pdb

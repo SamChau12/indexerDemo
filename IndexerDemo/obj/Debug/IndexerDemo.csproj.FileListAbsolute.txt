@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.exe.config
+C:\Users\Hp\source\repos\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.exe
+C:\Users\Hp\source\repos\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.pdb
+C:\Users\Hp\source\repos\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.exe
+C:\Users\Hp\source\repos\IndexerDemo\IndexerDemo\obj\Debug\IndexerDemo.pdb
